@@ -1,7 +1,7 @@
 # BREADTH-FIRST-SEARCH
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: Danica Christa </h3>
-<h3>Register Number: 212223240022 </h3>
+<h3>Name: Vincy Jovitha V</h3>
+<h3>Register Number: 212223230242 </h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
